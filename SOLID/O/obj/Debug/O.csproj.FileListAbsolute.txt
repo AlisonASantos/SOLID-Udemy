@@ -1,0 +1,6 @@
+C:\Users\DELL\source\repos\SOLID\O\bin\Debug\O.exe.config
+C:\Users\DELL\source\repos\SOLID\O\bin\Debug\O.exe
+C:\Users\DELL\source\repos\SOLID\O\bin\Debug\O.pdb
+C:\Users\DELL\source\repos\SOLID\O\obj\Debug\O.csprojAssemblyReference.cache
+C:\Users\DELL\source\repos\SOLID\O\obj\Debug\O.exe
+C:\Users\DELL\source\repos\SOLID\O\obj\Debug\O.pdb
